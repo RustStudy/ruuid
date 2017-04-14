@@ -1,4 +1,4 @@
-# Ruby gem for rust UUID generator 
+# Usage 
 
 ```ruby
 require 'ruuid'
