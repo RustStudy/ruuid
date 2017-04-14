@@ -1,0 +1,12 @@
+[package]
+name = "ruuid"
+version = "0.1.0"
+authors = ["blackanger"]
+
+[lib]
+name = "ruuid"
+crate-type = ["dylib"]
+
+[dependencies]
+libc = "0.2.11"
+uuid_v1 = "0.1.2"
