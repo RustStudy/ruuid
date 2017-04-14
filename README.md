@@ -29,4 +29,6 @@ Or install it yourself as:
 
 $ gem install ruuid
 
-* MAC USERS: At the moment Mac users need to install the extension manualy. Go to the gem directory and run cargo build --release . There is an issue opened for this and I'm looking for people who have Macs to help on this. *
+> MAC USERS: At the moment Mac users need to install the extension manualy.
+> Go to the gem directory and run cargo build --release .
+> There is an issue opened for this and I'm looking for people who have Macs to help on this. 
