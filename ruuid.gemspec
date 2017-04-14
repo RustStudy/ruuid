@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Ruuid::VERSION
   spec.authors       = ["blackanger"]
   spec.email         = ["blackanger.z@gmail.com"]
-  spec.summary       = 'rust uuid generate'
-  spec.description   = 'rust uuid generate.'
-  spec.homepage      = ""
+  spec.summary       = 'UUID generator dancing with Rust'
+  spec.description   = 'UUID generator dancing with Rust'
+  spec.homepage      = "https://github.com/RustStudy/ruuid"
   spec.license       = "MIT"
 
   spec.files         = [
