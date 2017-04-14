@@ -18,7 +18,7 @@ curl -sSf https://static.rust-lang.org/rustup.sh | sh
 Add this line to your application's Gemfile:
 
 ```
-gem  instal 'ruuid', '~> 0.1.0'
+gem  instal 'rust_uuid', '~> 0.1.0'
 
 ```
 And then execute:
@@ -27,8 +27,8 @@ $ bundle
 
 Or install it yourself as:
 
-$ gem install ruuid
+$ gem install rust_uuid
 
 > MAC USERS: At the moment Mac users need to install the extension manualy.
 > Go to the gem directory and run cargo build --release .
-> There is an issue opened for this and I'm looking for people who have Macs to help on this. 
+> There is an issue opened for this and I'm looking for people who have Macs to help on this.

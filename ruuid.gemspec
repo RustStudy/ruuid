@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'ruuid/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "ruuid"
+  spec.name          = "rust_uuid"
   spec.version       = Ruuid::VERSION
   spec.authors       = ["blackanger"]
   spec.email         = ["blackanger.z@gmail.com"]
